@@ -1,0 +1,4 @@
+Pasos para crear 
+1  Se usa cd para entrar al directorio
+2. Se una git init seguido de l nombre del repositorio para crear.
+3. Presionar enter y listo
