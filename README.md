@@ -1,2 +1,3 @@
 # THC
-Curso Intersemestral
+Velazquez Larriva Rodrigo Gibran
+316252667
